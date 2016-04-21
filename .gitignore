@@ -10,3 +10,4 @@ Build
 *.xcodeproj
 *.xcworkspace
 Config/DefaultInput.ini
+*.lnk
